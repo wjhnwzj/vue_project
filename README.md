@@ -1,1 +1,1 @@
-#这个一个用Vue+MUI+mint-ui开发的项目
+#这是一个用Vue+MUI+mint-ui开发的项目
